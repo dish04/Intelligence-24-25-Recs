@@ -1,0 +1,7 @@
+Summary of the tasks.
+
+Variational Autoencoders (VAEs) showed promising results by effectively learning the latent space and providing decent image reconstructions. However, GANs outperformed VAEs in generating higher-quality and more realistic enhanced images. The adversarial training in GANs, with the generator and discriminator network, enabled more fine-tuned and visually compelling results, with a higher ssim score.
+
+Finally, Diffusion Models, which proved to be highly tweakable and model dependent. Their performance varied based on the specific architectural and parameter choices. A little more research and development of Diffsuion Models and maybe I could have made a slightly better model (due to time contraints I was not able to).
+
+I want to thank the club for this opportunity. Through this project, I leant a lot about GANs and Diffusion models and mainly got to impelement one, which was fun and exciting. Thank you for the opportunity.
